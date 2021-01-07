@@ -6,11 +6,9 @@
 - 💬 Ask me about Mathematics, Python, Java, C/C++, Data Science.
 - 📫 My Social Media Panel -
 
-     <a href="https://www.instagram.com/__manisaketh__1/">Instagram</a>
-     
+     <a href="https://www.instagram.com/__manisaketh__1/">Instagram</a>  
      <a href="https://twitter.com/saketh_mani">Twitter</a>      
      <a href="https://www.linkedin.com/in/mani-saketh-ab611a193/">Linkedin</a>
-     
      <a href="https://www.quora.com/profile/Mani-Saketh-Sharma">Quora</a>
      
 - 📫 Mail me here-
