@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+- You are looking at a Perfect Pythoneer
 - 🔭 I’m currently working on Data Science
 - 🌱 I’m currently learning Full Stack Development
 - 🤔 I’m looking for help with Backend Development
@@ -16,4 +16,5 @@
       [2] manisaketh20@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ I am extremely interested in Photography
+![Mani Saketh's github stats](https://github-readme-stats.vercel.app/api?username=Mani-Saketh)
 
