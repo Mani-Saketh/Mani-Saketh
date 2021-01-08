@@ -18,6 +18,3 @@
 - ⚡ I am extremely interested in Photography
 
 
-![Mani Saketh's github stats](https://github-readme-stats.vercel.app/api?username=Mani-Saketh)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mani-Saketh)
