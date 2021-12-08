@@ -1,9 +1,7 @@
 ### Hi there 👋
 - You are looking at a Perfect Pythoneer
-- 🔭 I’m currently working on Data Science
-- 🌱 I’m currently learning Full Stack Development
-- 🤔 I’m looking for help with Backend Development
-- 💬 Ask me about Mathematics, Python, Java, C/C++, Data Science.
+- 🔭 I’m currently working on DSA and ML
+- 💬 Ask me about Mathematics, Python, Java, C/C++, DSA.
 - 📫 My Social Media Panel -
 
      <a href="https://www.instagram.com/__manisaketh__1/">Instagram</a>  
